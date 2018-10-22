@@ -9,7 +9,7 @@ This script will work till the following condition has occured:
 
 Framework Information:
 
-Python 3.6.0
+Python 3.6.0kk
 Beautiful Soup Library v4
 
 Installation Steps:
